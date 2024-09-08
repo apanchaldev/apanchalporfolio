@@ -1,0 +1,125 @@
+[
+  {
+    "role": "Software Development Manager",
+    "organisation": "Holtec International, Camden",
+    "startDate": "June, 2019",
+    "endDate": "Current",
+    "projects": [
+      "Budget Tracker",
+      "Mfg. Condition Reports Portal",
+      "EST (Electronic Shop Traveler)",
+      "Inventory Management, Logbooks",
+      "Reporting Portal"
+    ],
+    "technologies": "Microsoft .Net (Core), C#, Microservices, Angular, Azure Devops (Project Management Boards, Repository, CI/CD Pipelines), Agile Methodology, Azure services (app, storage, function, etc.), GIT, Entity Framework, Visual Studio 2019/2022 & SQL Server, EPICOR Kinetic (ERP), Generative AI, llama3, ollama",
+    "experiences": [
+      "Leading a team of 7 developers to provide innovative solutions, modernize legacy apps & automate manufacturing processes to serve various departments at organization including management, Finance, Accounting, Project Management, shop floor workers, external clients and external auditors.",
+      "Development of client communication document generator app POC using on premise local llm & RAG with Ollama, llama3, python, Langchain & chromadb.",
+      "Building Roadmap, budget estimation, resource management and project planning to achieve business objectives in defined budget constraints.",
+      "Responsible for spearheading software development projects and delivering direct reports to top management including the CEO.",
+      "Work with cross functional teams and subject matter experts to understand requirements and provide technical solutions for business problems.",
+      "Development using latest technologies and building presentable POC for new concepts and project initiatives. Conduct demos, presentation, and training to various user groups.",
+      "Engineered scalable, single-page applications using Angular framework, incorporating RxJS for reactive programming and Angular CLI for efficient development workflows.",
+      "Architected and optimized Angular modules and services, leveraging TypeScript for type safety and NgRx for state management to improve application performance and maintainability.",
+      "Utilizing Azure Devops for sprint management (Agile process), code repository & CI/CD pipelines for deployment on azure cloud & premise servers.",
+      "Responsible for conducting team code review sessions via Pull Requests. Ensure standard coding practices and quality assurance.",
+      "Integration of API provided by external vendors like ADP & Epicor ERP."
+    ],
+    "imageSrc": "history/holtec.png"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "NYC Dept of HPD, NYC",
+    "startDate": "Oct, 2018",
+    "endDate": "May, 2019",
+    "projects": ["PCS (Production Credit System) Replacement"],
+    "technologies": "C#.Net (Core), RESTful Web API, Angular, Docker, Moq, Entity Framework, Advanced Rest Client (ARC), Team Foundation Server (TFS), JIRA, Visual studio 2017 and SQL Server 2016",
+    "experiences": [
+      "Responsible for doing Research on Docker containers and building prototype for implementation at the organizational level.",
+      "Building and running images and orchestration of web api (services) using Docker for windows.",
+      "Working with architect to design Microservices architecture using Docker.",
+      "Responsible for understanding of Product Business Logic from the existing legacy application and communication with the business development team.",
+      "Responsible for developing UI pages using Angular, HTML5, Bootstrap and third-party JavaScript libraries like Flatpickr.",
+      "Followed the organizations Agile Scrum methodology to meet the organizational requirements.",
+      "Used JIRA tool for agile development and sprint planning and tracking.",
+      "Responsible for creation of TSQL, Store Procedure, triggers and SQL views.",
+      "Responsible for Unit testing of code using MS Test and Moq framework.",
+      "Used ARC (Advanced Rest Client) tool for Web API testing."
+    ],
+    "imageSrc": "history/nychpd.jpg"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "Korn Ferry, Philadelphia - PA",
+    "startDate": "Aug, 2017",
+    "endDate": "Aug, 2018",
+    "projects": ["JEM (Job Evaluation Manager)"],
+    "technologies": "Asp.Net 4.5, C# .Net, MVC, jQuery, RESTful Web API, Entity Framework, Team Foundation Server (TFS), JIRA, Visual studio 2015 and SQL Server",
+    "experiences": [
+      "Involved in requirements analysis and system designing for functionality enhancement.",
+      "Responsible for understanding of Product Business Logic.",
+      "Responsible for developing UI pages using jQuery, HTML5, Bootstrap and Web API.",
+      "Followed the organizations Agile Scrum methodology to meet user requirements and synchronization with team and project task handling.",
+      "Used JIRA tool for agile development and sprint planning and tracking.",
+      "Responsible for creation of TSQL, Store Procedure, triggers and SQL views.",
+      "Responsible for maintaining existing legacy libraries containing logic for SQL CLR assemblies.",
+      "Worked extensively with Data team to identify bottlenecks in queries and process and performed optimizations.",
+      "Debug and fine tune various SQL queries written using SQL profiler and SQL execution plans. Also, created necessary index and modified SQL query for better performance.",
+      "Performance tuning and code optimization using object-oriented methodologies.",
+      "Responsible for communications with support desk and client to identify any production issues and addressing them in application."
+    ],
+    "imageSrc": "history/kornferry.jpg"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "Med-Metrix, Parsippany - NJ",
+    "startDate": "Jan, 2012",
+    "endDate": "Jul, 2017",
+    "projects":[
+        "Dashboard",
+        "PAOC (Physician Advisor on call)"
+    ],
+    "technologies":"Asp.Net MVC, C#, jQuery, RESTful Web API, Entity Framework, Team Foundation Server (TFS), Visual studio 2012 and SQL Server 2012, SQL Server Integration Services (SSIS), SSRS, HIPAA compliance.",
+    "experiences": [
+      "Responsible for initial requirements gathering, analysis and system designing.",
+      "Managing communications with business development team in order to translate requirements in terms of technology.",
+      "Responsible for understanding of Product Business Logic.",
+      "Involved in resolving complex production issues by interacting with users and obtaining information.",
+      "Extensive use of object-oriented SOLID principles and design patterns like Singleton Pattern.",
+      "Analysis of using organization data as input for generating different types of reports using interactive charts.",
+      "Used Fusion charts control for creating different interactive charts.",
+      "Responsible for creation of TSQL, Store Procedure and SQL server agent Jobs.",
+      "Handled automated report generation functionality using SQL Server stored procedures.",
+      "Developed SSIS Packages to extract data provided by various clients and perform various transformations of the data by using different Control flow Task &amp; Data flow Task controls like Data source task, Conditional Split Transformation, Derived Column Transformation, OLE DB Command Transformation, Script Task, Merge etc.",
+      "Developed Event Handler to handle and logging of run time errors of ETL packages.",
+      "Created libraries for logging errors and user activity history management.",
+      "Use of Fiddler for debugging and review of Web API request and response.",
+      "Configured &amp; used TFS as source control."
+    ],
+    "imageSrc": "history/med-metrix.png"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "Standard & Poors, NYC - NY",
+    "startDate": "Aug, 2011",
+    "endDate": "Dec, 2011",
+    "projects":[
+        "Arrow Global (AG)"
+    ],
+    "technologies":"Asp.Net 3.5, C#, jQuery, WCF Services, DevExpress v8.2, Tortoise CVS, Visual studio 2008 and Oracle 10g",
+    "experiences": ["Experience content"],
+    "imageSrc": "history/spglobal.jpg"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "Sudler & Henessey, NYC - NY",
+    "startDate": "Sep, 2010",
+    "endDate": "Aug, 2011",
+    "projects":[
+        "Emma (eMeeting Management Applications)"
+    ],
+    "technologies":"Visual Studio 2010, C#, jQuery, Asp.Net, ADO.Net, SQL Server 2008.",
+    "experiences": ["Experience content"],
+    "imageSrc": "history/snh.png"
+  }
+]

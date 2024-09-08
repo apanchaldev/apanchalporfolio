@@ -1,0 +1,35 @@
+[
+  {
+    "title": ".Net Core",
+    "imageSrc": "skills/netcore.png"
+  },
+  {
+    "title": "Azure",
+    "imageSrc": "skills/azure.jpg"
+  },
+  {
+    "title": "Angular",
+    "imageSrc": "skills/angular.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "MS-SQL",
+    "imageSrc": "skills/mssql.png"
+  },
+  {
+    "title": "Ollama",
+    "imageSrc": "skills/ollama.png"
+  },
+  {
+    "title": "Langchain",
+    "imageSrc": "skills/langchain.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/js.png"
+  }
+]
+  
