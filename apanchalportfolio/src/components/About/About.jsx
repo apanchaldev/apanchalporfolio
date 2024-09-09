@@ -55,15 +55,15 @@ export const About = () => {
           </li>
         </ul>
       </div>
-      <div className={styles.center}>
+      {/* <div className={styles.center}>
         <a
-          href="https://docs.google.com/document/d/1W58C_Jqk2_J4Q5bvj9PSHz_VQL-XD4A9/edit?usp=drive_link&ouid=111196615849938987782&rtpof=true&sd=true"
+          href=""
           className={styles.downloadBtn}
           target="_blank"
         >
           Resume
         </a>
-      </div>
+      </div> */}
     </section>
   );
 };
